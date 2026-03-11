@@ -1,7 +1,7 @@
 # Simple addition program
 
-a = 5
-b = 10
+a = 10
+b = 17
 result = a + b
 
 print("The sum is:", result)
